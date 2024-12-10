@@ -1,0 +1,39 @@
+body {
+  font-family: Didot, serif;
+  max-width: 800px;
+  margin: auto;
+  padding: auto;
+  background-color:ghostwhite;color: black;
+
+img {
+  width: 95%;
+  padding-top: 15px;
+}
+
+.caption {
+  color: #8b8c94;
+  font-style: italic;
+  font-size: 15px;
+  margin: 5px 0px;
+  line-height: 14px;
+}
+
+h1 {
+  margin-right: 15 px;
+  font-size: 52px;
+}
+
+h2 {
+  margin-right: 20px;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 30px;
+}
+
+
+
+
